@@ -1,0 +1,4 @@
+input_processing.c:12:6:UpdateMode	8	static
+input_processing.c:34:13:increaseDraftValue	4	static
+input_processing.c:53:13:setDurationValue	16	static
+input_processing.c:79:6:UpdateDurationValue	8	static
